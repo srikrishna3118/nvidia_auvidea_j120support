@@ -17,7 +17,7 @@ tar xf gcc-linaro-7.3.1-2018.05-x86_64_aarch64-linux-gnu.tar.xz`
 
 ### 2. Download the kernel sources
 ###### You can download the kernel source files and then manually extract them. it is recommended to instead sync with git.
-######In a browser, navigate to: https://developer.nvidia.com/embedded/downloads. Locate and download the L4T Sources for your release. (L4T Sources 32.*) and extract the files in the same directory
+###### In a browser, navigate to: https://developer.nvidia.com/embedded/downloads. Locate and download the L4T Sources for your release. (L4T Sources 32.*) and extract the files in the same directory
 
 ###### Execute the following commands to extract the kernel:
 
